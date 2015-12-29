@@ -228,7 +228,7 @@ a {
 }
 .capitulo-lista i {
   font-size: 2em;
-  color: #fff;
+  color: $link-ligh;
   margin-right: 10px;
 }
 .capitulo-lista i:hover {
